@@ -1,4 +1,4 @@
-#An inventory for a fruit storage company.
+**An inventory for a fruit storage company**
 
 The application does the following:
 - Keep track of number of items delivered
